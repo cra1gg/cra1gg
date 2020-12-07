@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Craig's github stats](https://github-readme-stats.vercel.app/api?username=cra1gg)](https://github.com/cra1gg/github-readme-stats)
+
 
 <!--
 **cra1gg/cra1gg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
