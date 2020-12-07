@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/craigdsouza28/)](https://www.linkedin.com/in/craigdsouza28/)
+[![Linkedin Badge](https://img.shields.io/badge/-craigdsouza28-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/craigdsouza28/)](https://www.linkedin.com/in/craigdsouza28/)
 
 Hiya, I'm Craig! 👋
 
