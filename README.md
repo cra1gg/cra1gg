@@ -7,7 +7,7 @@ Heyo, I'm Craig! 👋
 
 [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=cra1gg&theme=dark)](https://github.com/cra1gg?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cra1gg&theme=dark)](https://github.com/cra1gg?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cra1gg&theme=dark&exclude_repo=officehours)](https://github.com/cra1gg?tab=repositories)
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=cra1gg.visitor-badge)
