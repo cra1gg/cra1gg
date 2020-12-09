@@ -1,6 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-craigdsouza28-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/craigdsouza28/)](https://www.linkedin.com/in/craigdsouza28/)
 
-Hiya, I'm Craig! 👋
+Heyo, I'm Craig! 👋
 
 - 📚 I'm a 4th year at the University of Toronto. I am majoring in Computer Science and minoring in Mathematics and Geography
 - ⚡ I previously interned at RBC as a Smart Technology Associate and RSA as a Business Intelligence Analyst
