@@ -3,7 +3,7 @@
 Hiya, I'm Craig! 👋
 
 - 📚 I'm a 4th year at the University of Toronto. I am majoring in Computer Science and minoring in Mathematics and Geography
-- ⚡ I previously interned at RBC as a Smart Technology Analyst and RSA as a Business Intelligence Analyst
+- ⚡ I previously interned at RBC as a Smart Technology Associate and RSA as a Business Intelligence Analyst
 
 [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=cra1gg)](https://github.com/cra1gg?tab=repositories)
 
