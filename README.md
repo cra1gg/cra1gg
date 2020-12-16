@@ -6,6 +6,7 @@ Heyo, I'm Craig! 👋
 - ⚡ I previously interned at RBC as a Smart Technology Associate and RSA as a Business Intelligence Analyst
 
 [![Craig's github stats](https://github-readme-stats.vercel.app/api?username=cra1gg&theme=dark)](https://github.com/cra1gg?tab=repositories)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cra1gg&theme=dark&exclude_repo=officehours)](https://github.com/cra1gg?tab=repositories)
 
 
