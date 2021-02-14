@@ -5,11 +5,18 @@ Heyo, I'm Craig! 👋
 - 📚 I'm a 4th year at the University of Toronto. I am majoring in Computer Science and minoring in Mathematics and Geography
 - ⚡ I previously interned at RBC as a Smart Technology Associate and RSA as a Business Intelligence Analyst
 
-[![Craig's github stats](https://github-readme-stats.vercel.app/api?username=cra1gg&theme=dark)](https://github.com/cra1gg?tab=repositories)
+|   |   |
+|---|---|
+|[![Craig's github stats](https://github-readme-stats.vercel.app/api?username=cra1gg&theme=dark)](https://github.com/cra1gg?tab=repositories)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cra1gg&theme=dark&exclude_repo=officehours&layout=compact)](https://github.com/cra1gg?tab=repositories)|
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cra1gg&theme=dark&exclude_repo=officehours)](https://github.com/cra1gg?tab=repositories)
+[![cra1g's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cra1g&theme=dark)](https://wakatime.com/@cra1g)
 
-[![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=y551zk0ehxtn9hwqsyzwpz3ax)]
+
+
+
+
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=y551zk0ehxtn9hwqsyzwpz3ax)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=cra1gg.visitor-badge)
 
