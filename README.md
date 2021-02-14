@@ -12,7 +12,7 @@ Heyo, I'm Craig! 👋
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=cra1gg.visitor-badge)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=y551zk0ehxtn9hwqsyzwpz3ax&width={width})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=y551zk0ehxtn9hwqsyzwpz3ax&width={500})
 
 <!--
 **cra1gg/cra1gg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
