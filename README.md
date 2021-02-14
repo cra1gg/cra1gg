@@ -12,6 +12,8 @@ Heyo, I'm Craig! 👋
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=cra1gg.visitor-badge)
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=y551zk0ehxtn9hwqsyzwpz3ax&width={width})
+
 <!--
 **cra1gg/cra1gg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,3 +28,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
