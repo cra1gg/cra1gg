@@ -8,11 +8,8 @@ Heyo, I'm Craig! 👋
 
 
 
-|[![Craig's github stats](https://github-readme-stats.vercel.app/api?username=cra1gg&theme=dark)](https://github.com/cra1gg?tab=repositories)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cra1gg&theme=dark&exclude_repo=officehours&layout=compact)](https://github.com/cra1gg?tab=repositories)|
+|<img src="https://github-readme-stats.vercel.app/api?username=cra1gg&theme=dark" alt="spotify" width="490" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cra1gg&theme=dark&exclude_repo=officehours&layout=compact" alt="spotify" width="410"/>|
 |---|---|
-
-
-[![cra1g's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cra1g&theme=dark)](https://wakatime.com/@cra1g)
 
 
 
