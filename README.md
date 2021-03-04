@@ -10,7 +10,6 @@ Heyo, I'm Craig! 👋
 
 |<img src="https://github-readme-stats.vercel.app/api?username=cra1gg&theme=dark" alt="spotify" width="490" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cra1gg&theme=dark&exclude_repo=officehours&layout=compact" alt="spotify" width="410"/>|
 |---|---|
-|<img src="https://media4.giphy.com/media/h4NIWLu1SaRDa1JnWR/giphy.gif" alt="drawing" width="350"/>![Spotify](https://novatorem-sooty-nu.vercel.app/api/spotify)|<img src="https://spotify-recently-played-readme.vercel.app/api?user=y551zk0ehxtn9hwqsyzwpz3ax" alt="spotify" width="700"/>|
 
 
 
