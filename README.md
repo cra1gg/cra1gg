@@ -16,7 +16,7 @@ Heyo, I'm Craig! 👋
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=cra1gg.visitor-badge)
 
-^^ This is probably mostly me just visiting github from my bookmark
+^^ This is mostly me just visiting Github from my bookmark
 
 <!--
 **cra1gg/cra1gg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
