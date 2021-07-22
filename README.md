@@ -6,10 +6,10 @@ Heyo, I'm Craig! 👋
 - 👨‍💻 I previously interned at RBC as a Smart Technology Associate and RSA as a Business Intelligence Analyst
 
 
-|[![Craig's GitHub stats](https://github-readme-stats.vercel.app/api?username=cra1gg&theme=dark&title_color=d77874)](https://github.com/cra1gg)|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cra1gg&theme=dark&ring=d77874&fire=B590FA&currStreakLabel=d77874)](https://git.io/streak-stats)|
+|[![Craig's GitHub stats](https://github-readme-stats.vercel.app/api?username=cra1gg&theme=dark&title_color=92C87A)](https://github.com/cra1gg)|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cra1gg&theme=dark&ring=92C87A&fire=B590FA&currStreakLabel=92C87A)](https://git.io/streak-stats)|
 |---|---|
 
-[![Craig's github activity graph](https://activity-graph.herokuapp.com/graph?username=cra1gg&bg_color=151515&color=ffffff&line=d77874&point=d77874&area=true&hide_border=false
+[![Craig's github activity graph](https://activity-graph.herokuapp.com/graph?username=cra1gg&bg_color=151515&color=ffffff&line=92C87A&point=92C87A&area=true&hide_border=false
 )](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
