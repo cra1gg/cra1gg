@@ -2,7 +2,7 @@
 
 Heyo, I'm Craig! 👋
 - 💼 I am currently working at [Riskfuel](https://riskfuel.com/) as a DevOps Engineer  
-- 📚 I have a Hon. BSc in Computer Science from the University of Toronto. I minored in Mathematics and Geography.
+- 📚 I have a BSc (Hons) in Computer Science from the University of Toronto. I minored in Mathematics and Geography.
 - 👨‍💻 I previously interned at RBC as a Smart Technology Associate and RSA as a Business Intelligence Analyst
 
 
