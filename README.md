@@ -1,3 +1,4 @@
+
 [![Linkedin Badge](https://img.shields.io/badge/-craigdsouza28-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/craigdsouza28/)](https://www.linkedin.com/in/craigdsouza28/)
 
 Heyo, I'm Craig! 👋
@@ -44,4 +45,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
 
