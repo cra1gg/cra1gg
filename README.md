@@ -12,7 +12,7 @@ Heyo, I'm Craig! 👋
 [![Craig's github activity graph](https://activity-graph.herokuapp.com/graph?username=cra1gg&bg_color=151515&color=ffffff&line=92C87A&point=92C87A&area=true&hide_border=false
 )](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+📊 Current Week Development Breakdown
 <!--START_SECTION:waka-->
 ```text
 JavaScript   4 hrs 28 mins   █████████████████▒░░░░░░░   69.91 % 
