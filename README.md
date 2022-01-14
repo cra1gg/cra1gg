@@ -16,7 +16,8 @@ Heyo, I'm Craig! 👋
 📊 Current Week Development Breakdown
 <!--START_SECTION:waka-->
 ```text
-
+Other   4 hrs 25 mins   ████████████████████████▒   97.28 % 
+JSON    7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 ```
 <!--END_SECTION:waka-->
 
